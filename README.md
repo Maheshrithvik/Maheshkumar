@@ -1,4 +1,3 @@
-Maheshkumar
 Hi Everyone!
 Welcome to my GitHub profile! I'm a Senior System Engineer currently working at Dell. As a Senior System Engineer, I am responsible for designing, implementing, and maintaining complex IT systems to ensure optimal performance and reliability. My role involves managing infrastructure, troubleshooting advanced technical issues, and leading IT projects to support the organization's goals. I have over 10 years of experience in this field, including expertise in:
 Windows, Linux,MAC
